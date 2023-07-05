@@ -40,11 +40,9 @@ function DraftGame() {
 
   return (
     <>
-      <div className='w-12 h-12 bg-slate-100 mx-14 my-1 border-2 rounded-xl border-yellow-500 flex items-center justify-center text-2xl font-bold'>
-        <Link href="/">
-          <Arrow />
-        </Link>
-      </div>
+      <Link href="/" className='w-12 h-12 bg-slate-100 mx-14 my-1 border-2 rounded-xl border-yellow-500 flex items-center justify-center text-2xl font-bold'>
+        <Arrow />
+      </Link>
       <section className='text-white flex flex-col items-center gap-y-10 mt-3'>
         <Image src="../assets/logo-dk.svg" alt="Logo" width={500} height={500} />
         <Form
