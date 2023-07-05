@@ -24,35 +24,35 @@ const InfoModal = (props: InfoModalProps) => {
         <div
           className='h-full w-full flex items-start mt-6 p-3 justify-start text-lg font-bold'
         >
-          <ul className='flex flex-col gap-y-4 indent-2'>
-            <li className='flex justify-center text-2xl'>
+          <div className='flex flex-col gap-y-4 indent-2'>
+            <p className='flex justify-center text-2xl'>
               Como jogar:
-            </li>
-            <li>
+            </p>
+            <p>
               Após clicar em "Play Now", defina um tema com os seus adversários.
-            </li>
-            <li>
+            </p>
+            <p>
               Cada jogador terá que escolher algo relacionada ao tema. Por exemplo: O tema é "Filmes", então o jogador pode escolher "Harry Potter" ou qualquer outro item que se encaixe no tema escolhido.
-            </li>
-            <li>
+            </p>
+            <p>
               Importante: A quantidade de itens em cada Draft é definido junto com o tema. Por exemplo: O tema é "Filmes" e o Draft é de 5 itens, então cada jogador terá que escolher 5 filmes.
-            </li>
-            <li>
+            </p>
+            <p>
               Importante: Os jogadores escolhem na ordem crescente (do jogador 1 ao jogador 5), o último jogador faz duas escolhas e as escolhas voltam em ordem descrecente(do jogador 5 ao jogador 1).
-            </li>
-            <li>
+            </p>
+            <p>
               Após todos os jogadores terem o seu Draft montado é a hora da votação. Só pode votar quem nao participou do Draft, adicione ao contador do Draft cada vez que o mesmo receber um voto e depois que todos votarem, o jogador com mais votos ganha.
-            </li>
-            <li>
+            </p>
+            <p>
               Importante: O voto é feito no Draft como um todo, não em um item específico.
-            </li>
-            <li>
+            </p>
+            <p>
               O nome de cada participante é "Jogador" para manter o anonimato e evitar votos tendenciosos.
-            </li>
-            <li>
+            </p>
+            <p>
               Importante: Bom jogo e DIVIRTA-SE.
-            </li>
-          </ul>
+            </p>
+          </div>
         </div>
       </div>
     </div>
