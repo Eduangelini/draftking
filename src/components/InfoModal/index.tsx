@@ -29,28 +29,28 @@ const InfoModal = (props: InfoModalProps) => {
               Como jogar:
             </p>
             <p>
-              Após clicar em "Play Now", defina um tema com os seus adversários.
+              1. Após clicar em &quot;Play Now&quot;, defina um tema com os seus adversários.
             </p>
             <p>
-              Cada jogador terá que escolher algo relacionada ao tema. Por exemplo: O tema é "Filmes", então o jogador pode escolher "Harry Potter" ou qualquer outro item que se encaixe no tema escolhido.
+              2. Cada jogador terá que escolher algo relacionada ao tema. Por exemplo: O tema é &quot;Filmes&quot;, então o jogador pode escolher &quot;Harry Potter&quot; ou qualquer outro item que se encaixe no tema escolhido.
             </p>
             <p>
-              Importante: A quantidade de itens em cada Draft é definido junto com o tema. Por exemplo: O tema é "Filmes" e o Draft é de 5 itens, então cada jogador terá que escolher 5 filmes.
+              -&gt; Importante: A quantidade de itens em cada Draft é definido junto com o tema. Por exemplo: O tema é &quot;Filmes&quot; e o Draft é de 5 itens, então cada jogador terá que escolher 5 filmes.
             </p>
             <p>
-              Importante: Os jogadores escolhem na ordem crescente (do jogador 1 ao jogador 5), o último jogador faz duas escolhas e as escolhas voltam em ordem descrecente(do jogador 5 ao jogador 1).
+              -&gt; Importante: Os jogadores escolhem na ordem crescente &#40;do jogador 1 ao jogador 5&#41;, o último jogador faz duas escolhas e as escolhas voltam em ordem descrecente &#40;do jogador 5 ao jogador 1&#41;.
             </p>
             <p>
-              Após todos os jogadores terem o seu Draft montado é a hora da votação. Só pode votar quem nao participou do Draft, adicione ao contador do Draft cada vez que o mesmo receber um voto e depois que todos votarem, o jogador com mais votos ganha.
+              3. Após todos os jogadores terem o seu Draft montado é a hora da votação. Só pode votar quem nao participou do Draft, adicione ao contador do Draft cada vez que o mesmo receber um voto e depois que todos votarem, o jogador com mais votos ganha.
             </p>
             <p>
-              Importante: O voto é feito no Draft como um todo, não em um item específico.
+              -&gt; Importante: O voto é feito no Draft como um todo, não em um item específico.
             </p>
             <p>
-              O nome de cada participante é "Jogador" para manter o anonimato e evitar votos tendenciosos.
+              4. O nome de cada participante é &quot;Jogador&quot; para manter o anonimato e evitar votos tendenciosos.
             </p>
             <p>
-              Importante: Bom jogo e DIVIRTA-SE.
+              -&gt; Importante: Bom jogo e DIVIRTA-SE.
             </p>
           </div>
         </div>
